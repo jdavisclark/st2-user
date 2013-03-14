@@ -5,7 +5,9 @@
 		"Vintage"
 	],
 	"theme": "Soda Dark.sublime-theme",
-
-	// Set to true to removing trailing white space on save
-    "trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	// Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+    "word_wrap": "auto"
 }

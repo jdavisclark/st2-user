@@ -1,11 +1,13 @@
 {
 	"installed_packages":
 	[
+		"AAAPackageDev",
 		"Case Conversion",
 		"Emmet",
 		"Indent XML",
 		"JsFormat",
 		"LoremIpsum",
+		"Package Control",
 		"sublime-theme",
 		"Theme - Soda",
 		"Themr"
