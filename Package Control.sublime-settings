@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"Case Conversion",
+		"Emmet",
+		"Indent XML",
+		"JsFormat",
+		"LoremIpsum",
+		"sublime-theme",
+		"Theme - Soda",
+		"Themr"
+	],
+	"repositories":
+	[
+		"https://github.com/jdc0589/sublime-theme"
+	]
+}

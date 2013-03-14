@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/sublime-theme/bongzilla.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Dark.sublime-theme",
+
+	// Set to true to removing trailing white space on save
+    "trim_trailing_white_space_on_save": true
+}
