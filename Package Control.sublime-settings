@@ -1,7 +1,6 @@
 {
 	"installed_packages":
 	[
-		"AAAPackageDev",
 		"Case Conversion",
 		"Dotfiles Syntax Highlighting",
 		"Emmet",
